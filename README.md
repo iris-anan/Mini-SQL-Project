@@ -2,7 +2,7 @@
 
 I explored data in the "country_club" database, which is a SQL-based. This database
 contains 3 tables: <br>
-    <p> i) the "Bookings" table </p> <br>
+<p> i) the "Bookings" table </p>
     <p> ii) the "Facilities" table <br>
     <p> iii) the "Members" table <br>
 
